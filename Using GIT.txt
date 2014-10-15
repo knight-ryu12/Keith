@@ -1,0 +1,14 @@
+For a start, make sure you have saved all of your work inside of C9.io
+
+Next, open a terminal (Blue screen) and type:
+   git add *
+
+Then type
+   git commit -m "A comment about your addition"
+   
+Then type
+   git push
+   
+Now enter your GitHub username and password
+
+Done!
