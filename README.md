@@ -1,11 +1,10 @@
-888    d8P           d8b 888    888      
-888   d8P            Y8P 888    888      
-888  d8P                 888    888      
-888d88K      .d88b.  888 888888 88888b.  
-8888888b    d8P  Y8b 888 888    888 "88b 
-888  Y88b   88888888 888 888    888  888 
-888   Y88b  Y8b.     888 Y88b.  888  888 
-888    Y88b  "Y8888  888  "Y888 888  888 
-========================================
+888____d8P___________d8b_888____888
+888___d8P____________Y8P_888____888
+888__d8P_________________888____888
+888d88K_______d88b___888_888888_88888b_
+8888888b____d8P  Y8b_888_888____888_"88b
+888__Y88b___88888888_888_888____888__888
+888___Y88b__Y8b______888_Y88b___888__888
+888____Y88b__"Y8888__888__"Y888_888__888
 
 Keith is a game that is in developement at the moment. It is written by a company called Spryte. This company is setup by a selected few students of North Nottinghamshire College.
